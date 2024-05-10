@@ -1,0 +1,17 @@
+
+.list{
+    color: black;
+    font-weight: 900;
+}
+.list#pancake-button{
+    background-color: rgb(211, 182, 88);
+}
+.list#garden-button{
+    background-color: rgb(131, 221, 78);
+}
+.list#steak-button{
+    background-color: rgba(224, 122, 38, 0.801);
+}
+.list#back-button{
+    background-color: cornflowerblue;
+}
