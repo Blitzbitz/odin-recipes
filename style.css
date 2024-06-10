@@ -1,7 +1,25 @@
+.homepage-banner{
+    display: flex;
+    height: 200px;
+    /*width: 500px;*/
+}
+
+.homepage-banner img {
+    flex: auto;
+}
+.recipe-buttons{
+    display:flex
+}
+.recipe-buttons button{
+    flex:auto
+    
+}
+
 
 .list{
     color: black;
     font-weight: 900;
+    width: 500px;
 }
 .list#pancake-button{
     background-color: rgb(211, 182, 88);
